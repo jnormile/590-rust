@@ -1,3 +1,4 @@
+
 # Use the latest Rust official image
 FROM rust:latest
 
